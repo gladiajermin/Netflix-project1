@@ -4,7 +4,6 @@ Exploratory Data Analysis on the Netflix Movies & TV Shows dataset, completed as
 
 ## Dataset
 Netflix Movies & TV Shows Dataset
-Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ## What this project covers
 - Loading and inspecting the dataset (shape, missing values, duplicates)
